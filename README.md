@@ -1,6 +1,6 @@
 # Medical-Charges-Prediction
 
-**Project Status: Active**
+**Project Status: Finished**
 
 ## Objective
 In this project, we will be training a regression model on the "Insurance" dataset. The model is to predict the insurance costs for a person based on their age, sex, BMI (Body Mass Index), and more.
